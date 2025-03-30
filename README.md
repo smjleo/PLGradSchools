@@ -380,7 +380,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
    
 * [University of Oxford](https://www.cs.ox.ac.uk/research/pl/)
   - Topics
-    * [Session types & $\pi$-calculus]((https://mrg.cs.ox.ac.uk/))
+    * [Session types & $\pi$-calculus](https://mrg.cs.ox.ac.uk/)
     * Formal verification
     * Functional programming
     * Type theory
