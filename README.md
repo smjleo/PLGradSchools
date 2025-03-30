@@ -377,6 +377,14 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Stephen Oney](http://from.so/)
     * [Karem A. Sakallah](https://web.eecs.umich.edu/~karem/)
     * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/)
+   
+* [MRG @ University of Oxford](https://mrg.cs.ox.ac.uk/)
+  - Topics
+    * Session types & $\pi$-calculus
+    * Concurrency
+    * Formal verification
+  - Faculty
+    * [Nobuko Yoshida](https://mrg.cs.ox.ac.uk/people/nobuko-yoshida)
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics
