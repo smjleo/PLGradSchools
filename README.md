@@ -378,13 +378,18 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Karem A. Sakallah](https://web.eecs.umich.edu/~karem/)
     * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/)
    
-* [MRG @ University of Oxford](https://mrg.cs.ox.ac.uk/)
+* [University of Oxford](https://www.cs.ox.ac.uk/research/pl/)
   - Topics
-    * Session types & $\pi$-calculus
-    * Concurrency
+    * [Session types & $\pi$-calculus]((https://mrg.cs.ox.ac.uk/))
     * Formal verification
-  - Faculty
-    * [Nobuko Yoshida](https://mrg.cs.ox.ac.uk/people/nobuko-yoshida)
+    * Functional programming
+    * Type theory
+    * Category theory
+    * Algebra of Programming
+    * Differentiable and Probabilistic Programming
+    * Foundations of Programming Languages
+    * Game Semantics
+    * Nominal Techniques
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics
